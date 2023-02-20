@@ -1,4 +1,4 @@
-package com.varxyz.jvx330;
+package com.kudangtang.jvx330;
 
 import java.text.DateFormat;
 import java.util.Date;
